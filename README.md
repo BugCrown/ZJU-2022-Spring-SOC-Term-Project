@@ -10,6 +10,7 @@ ZIM文本阅读器和编辑器
 ### src
 C文件夹中存放了cds工程文件中所需要的头文件和源文件，分别放在inc和src中  
 python文件夹中存放了图片像素点颜色提取的代码和二进制文件转换成C的工具，分别存放在img_process和fileToC中  
-rtl的ip_repo中存放了本项目中用到的ip核，相应的代码可以在每个文件夹中的hdl中看到  
+IP核部分由老师给出，部分在小作业中自行设计  
 # 引用
+老师的部分代码
 cyan812的[fileToC](https://github.com/cyang812/tools.git)
